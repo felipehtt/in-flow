@@ -14,20 +14,18 @@ function InFlow() {
           <ul id='menu'>
             <li><a href="#sobre">Sobre</a></li>
             <li><a href="#experiencias">Experiências</a></li>
-            <li>Projetos</li>
+            <li><a href="#projetos">Projetos</a></li>
           </ul>
 
-          <p>Somos especialistas em desenvolvimento front-end.</p>
+          <p>Somos especialistas em desenvolvimento Frontend.</p>
 
-          <img src="" alt="" />
-          <img src="" alt="" />
-          <img src="" alt="" />
+          <img src="/assets/images/linkedin.png" alt="" />
 
       </div>
 
       <div className='dir'>
 
-
+        
 
       </div>
 
