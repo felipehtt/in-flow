@@ -8,10 +8,11 @@ function InFlow() {
     <div className="pagina-inFlow">
 
       <header className='esq'>
-
-          <h1>In-Flow</h1>
-          <h3>Frontend Developers</h3>
-          <h4>construímos pixels perfeitos, envolventes e <br />experiências digitais acessíveis.</h4>
+        <div className='cima'>
+          <img src="./assets/images/logo.png" alt="" />
+        </div>
+          <h2>Frontend Developers</h2>
+          <h4>Construímos pixels perfeitos, envolventes e <br />experiências digitais acessíveis.</h4>
 
           <ul id='menu'>
             <li><a href="#sobre">Sobre</a></li>
