@@ -14,22 +14,18 @@
         flex-direction: column;
         gap: 10px;
         padding-left: 40px;
-        padding-top: 170px;
+        padding-top: 150px;
         position: fixed;
         margin-left: 70px;
 
         img {
             width: 300px;
+            padding-bottom: 65px;
         }
 
         h1{
 
             font: 600 55px 'SUSE';
-        }
-
-    
-        img {
-            padding-bottom: 40px;
         }
 
         .sub{
@@ -38,14 +34,14 @@
 
         }
 
-        h4{
+        h4 {
 
             font: 300 18px 'SUSE';
             color: #dddddd80;
             margin-top: 5px;
         }
 
-        ul{
+        ul {
 
             display: flex;
             flex-direction: column;
@@ -69,14 +65,14 @@
         }
 
 
-        p{
+        p {
 
             color: #ffffffb7;
             margin-top: 40px;
 
         }
 
-        .i{
+        .i {
 
             display: flex;
 
@@ -89,23 +85,22 @@
 
     }
 
-    .dir{
+    .dir {
 
         display: flex;
         flex-direction: column;
         justify-content: left;
-        margin-left: 700px;
+        margin-left: 670px;
         margin-top: 70px;
         gap: 150px;
         margin-bottom: 100px;
         
 
-        .prgrf{
-
+        .prgrf {
             font: 200 15px 'SUSE';
+            padding-top: 8px;
             line-height: 180%;
         }
-
 
     }
     
