@@ -1,0 +1,21 @@
+.mouse-shadow {
+    position: absolute;
+    pointer-events: none; // Para evitar que o mouse interaja com esse div
+
+    .shadow {
+        width: 100px; // Ajuste conforme necessário
+        height: 100px; // Ajuste conforme necessário
+        background-color: transparent; // Mantenha o fundo transparente
+        border-radius: 50%;
+        position: absolute;
+        transform: translate(-50%, -50%);
+        transition: box-shadow 0.3s ease;
+
+        box-shadow: 0 0 100px #1e2944;
+
+        &:hover {
+            //box-shadow: 0 0 50px rgba(196, 23, 23, 0.7); // Efeito ao passar o mouse
+            transform: scale(1.1) translate(-50%, -50%); // Aumenta ao passar o mouse
+        }
+    }
+}

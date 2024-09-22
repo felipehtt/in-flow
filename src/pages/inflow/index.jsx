@@ -1,11 +1,17 @@
 import './index.scss';
 
-function InFlow() {
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faWhatsapp, faGithub, faLinkedin, faXTwitter, faGoodreads } from '@fortawesome/free-brands-svg-icons';
 
+import MouseShadow from '../../components/MouseShadow';
+
+function InFlow() {
 
   return (
 
     <div className="pagina-inFlow">
+
+      <MouseShadow />
 
       <header className='esq'>
         <div className='cima'>
@@ -21,6 +27,16 @@ function InFlow() {
         </ul>
 
         <p>Somos especialistas em desenvolvimento Frontend.</p>
+
+        <section>
+
+          <FontAwesomeIcon className='c' icon={faGithub} size='2x' color='grey'/>
+          <FontAwesomeIcon className='c' icon={faWhatsapp} size='2x' color='grey'/>
+          <FontAwesomeIcon className='c' icon={faLinkedin} size='2x' color='grey'/>
+          <FontAwesomeIcon className='c' icon={faXTwitter} size='2x' color='grey'/>
+          <FontAwesomeIcon className='c' icon={faGoodreads} size='2x' color='grey'/>
+
+        </section>
 
 
       </header>
