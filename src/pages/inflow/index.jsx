@@ -20,7 +20,7 @@ function InFlow() {
         <h2>Frontend Developers</h2>
         <h4>Construímos pixels perfeitos, envolventes e <br />experiências digitais acessíveis.</h4>
 
-        <ul id='menu'>
+        <ul>
           <li><a href="#sobre">Sobre</a></li>
           <li><a href="#experiencias">Experiências</a></li>
           <li><a href="#projetos">Projetos</a></li>
