@@ -21,9 +21,9 @@ function InFlow() {
         <h4>Construímos pixels perfeitos, envolventes e <br />experiências digitais acessíveis.</h4>
 
         <ul>
-          <li><a href="#sobre">Sobre</a></li>
-          <li><a href="#experiencias">Experiências</a></li>
-          <li><a href="#projetos">Projetos</a></li>
+          <li><a href="#sobre" className='animated-link'>Sobre</a></li>
+          <li><a href="#experiencias" className='animated-link'>Experiências</a></li>
+          <li><a href="#projetos" className='animated-link'>Projetos</a></li>
         </ul>
 
         <p>Somos especialistas em desenvolvimento Frontend.</p>
