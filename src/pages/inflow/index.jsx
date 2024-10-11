@@ -1,7 +1,7 @@
 import './index.scss';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faWhatsapp, faGithub, faLinkedin, faXTwitter, faGoodreads } from '@fortawesome/free-brands-svg-icons';
+import { faWhatsapp, faGithub, faLinkedin, faXTwitter, faGoogle } from '@fortawesome/free-brands-svg-icons';
 
 import MouseShadow from '../../components/MouseShadow';
 
@@ -34,7 +34,7 @@ function InFlow() {
           <FontAwesomeIcon className='c' icon={faWhatsapp} size='2x' color='grey'/>
           <FontAwesomeIcon className='c' icon={faLinkedin} size='2x' color='grey'/>
           <FontAwesomeIcon className='c' icon={faXTwitter} size='2x' color='grey'/>
-          <FontAwesomeIcon className='c' icon={faGoodreads} size='2x' color='grey'/>
+          <FontAwesomeIcon className='c' icon={faGoogle} size='2x' color='grey'/>
 
         </section>
 
