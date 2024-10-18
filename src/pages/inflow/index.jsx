@@ -1,7 +1,7 @@
 import './index.scss';
-
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faWhatsapp, faGithub, faLinkedin, faXTwitter, faGoogle } from '@fortawesome/free-brands-svg-icons';
+import { Link } from 'react-router-dom';
 
 import MouseShadow from '../../components/MouseShadow';
 
@@ -31,11 +31,12 @@ function InFlow() {
 
         <section>
 
-          <FontAwesomeIcon className='c' icon={faGithub} size='2x' color='grey'/>
-          <FontAwesomeIcon className='c' icon={faWhatsapp} size='2x' color='grey'/>
-          <FontAwesomeIcon className='c' icon={faLinkedin} size='2x' color='grey'/>
-          <FontAwesomeIcon className='c' icon={faXTwitter} size='2x' color='grey'/>
-          <FontAwesomeIcon className='c' icon={faGoogle} size='2x' color='grey'/>
+         
+          <a href=""><FontAwesomeIcon className='c' icon={faGithub} size='2x' color='grey'/></a> 
+          <a href=""><FontAwesomeIcon className='c' icon={faWhatsapp} size='2x' color='grey'/></a>
+          <a href=""><FontAwesomeIcon className='c' icon={faLinkedin} size='2x' color='grey'/> </a>
+          <a href="https://x.com/inflowweb?t=rGZgGyroh4F9w5GuHm9tkw&s=09"><FontAwesomeIcon className='c' icon={faXTwitter} size='2x' color='grey'/></a>
+          <a href=""><FontAwesomeIcon className='c' icon={faGoogle} size='2x' color='grey'/></a> 
 
         </section>
 
