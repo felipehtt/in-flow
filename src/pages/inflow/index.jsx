@@ -13,12 +13,13 @@ function InFlow() {
 
       <MouseShadow />
 
+
       <header className='esq'>
         <div className='cima'>
           <img src="./assets/images/logo-semfundo.png" alt="" />
         </div>
-        <h2>Frontend Developers</h2>
-        <h4>Construímos pixels perfeitos, envolventes e <br />experiências digitais acessíveis.</h4>
+        <h2>Frontend/Backend Developers</h2>
+        <h4>Construímos ótimos design's, envolventes e <br />experiências digitais acessíveis.</h4>
 
         <ul>
           <li><a href="#sobre" className='animated-link'>Sobre</a></li>
@@ -26,7 +27,7 @@ function InFlow() {
           <li><a href="#projetos" className='animated-link'>Projetos</a></li>
         </ul>
 
-        <p>Somos especialistas em desenvolvimento Frontend.</p>
+        <p>Somos especialistas em desenvolvimento Frontend <br /> e Backend.</p>
 
         <section>
 
@@ -45,6 +46,8 @@ function InFlow() {
 
         <section id='sobre'>
 
+          <br />
+
           <h3>Sobre</h3>
 
           <p className='prgrf'>
@@ -59,6 +62,8 @@ function InFlow() {
 
         <section id='experiencias'>
 
+          <br />
+
           <h3>Experiências</h3>
 
           <p className='prgrf'>
@@ -71,6 +76,8 @@ function InFlow() {
         </section>
 
         <section id='projetos'>
+
+          <br />
 
           <h3>Projetos</h3>
 
