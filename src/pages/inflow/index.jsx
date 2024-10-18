@@ -13,7 +13,6 @@ function InFlow() {
 
       <MouseShadow />
 
-
       <header className='esq'>
         <div className='cima'>
           <img src="./assets/images/logo-semfundo.png" alt="" />
