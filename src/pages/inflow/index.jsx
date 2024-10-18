@@ -15,7 +15,7 @@ function InFlow() {
 
       <header className='esq'>
         <div className='cima'>
-          <img src="./assets/images/logo.png" alt="" />
+          <img src="./assets/images/logo-semfundo.png" alt="" />
         </div>
         <h2>Frontend Developers</h2>
         <h4>Construímos pixels perfeitos, envolventes e <br />experiências digitais acessíveis.</h4>
