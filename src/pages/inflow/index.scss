@@ -166,6 +166,14 @@
             position: relative;
             margin-left: 0;
             padding-left: 20px;
+
+            section{
+
+                display: flex;
+                gap: 3%;
+                padding-left: 0;
+            }
+
         }
 
     }
@@ -263,4 +271,50 @@
 
     }
 
+}
+
+@media(max-width: 412px){
+
+    .pagina-inFlow{
+
+        .esq{
+
+            img{
+                margin-left: 25%;
+            }
+    
+            h2, h4{
+                text-align: center;
+                margin-right: 4%;
+            }
+    
+            ul{
+             
+                display: flex;
+                flex-direction: column;
+                gap: 20px;
+                align-items: center;
+                margin-right: 21%;
+                list-style: none;
+            
+            }
+
+            p{
+                text-align: center;
+                margin-right: 10%;
+                margin-bottom: 5%;
+            }
+
+            section{
+                margin-left: 5%;
+            }
+
+        }
+
+        .dir{
+
+            margin-top: 0px;
+        }
+
+    }
 }
