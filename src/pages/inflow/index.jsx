@@ -44,48 +44,49 @@ function InFlow() {
 
       <section className='dir'>
 
-        <section id='sobre'>
+        <section className='text' id='sobre'>
 
           <br />
 
           <h3>Sobre</h3>
 
           <p className='prgrf'>
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. <br /> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, <br /> when bran unknown printer took a galley of type and scrambled it to make a type <br /> specimen book. It has survived not only five centuries, but also the leap into electronic <br /> typesetting, remaining essentially unchanged.
-            Lorem ipsum, dolor sit amet consectetur <br /> adipisicing elit. Quod aliquam quisquam, commodi pariatur quis debitis quidem, <br /> aspernatur quae ducimus recusandae fugiat autem reprehenderit, libero <br /> animi officia vero doloremque nostrum saepe. <br />
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. <br /> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, <br /> when bran unknown printer took a galley of type and scrambled it to make a type <br /> specimen book. It has survived not only five centuries, but also the leap into electronic <br /> typesetting, remaining essentially unchanged.
-            Lorem ipsum, dolor sit amet consectetur <br /> adipisicing elit. Quod aliquam quisquam, commodi pariatur quis debitis quidem, <br /> aspernatur quae ducimus recusandae fugiat autem reprehenderit, libero <br /> animi officia vero doloremque nostrum saepe.
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry.  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when bran unknown printer took a galley of type and scrambled it to make a type  specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+            Lorem ipsum, dolor sit amet consectetur  adipisicing elit. Quod aliquam quisquam, commodi pariatur quis debitis quidem, aspernatur quae ducimus recusandae fugiat autem reprehenderit, libero  animi officia vero doloremque nostrum saepe. 
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,  when bran unknown printer took a galley of type and scrambled it to make a type  specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+            Lorem ipsum, dolor sit amet consectetur  adipisicing elit. Quod aliquam quisquam, commodi pariatur quis debitis quidem, aspernatur quae ducimus recusandae fugiat autem reprehenderit, libero animi officia vero doloremque nostrum saepe.
 
           </p>
 
         </section>
 
-        <section id='experiencias'>
+        <section className='text' id='experiencias'>
 
           <br />
 
           <h3>Experiências</h3>
 
           <p className='prgrf'>
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. <br /> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, <br /> when bran unknown printer took a galley of type and scrambled it to make a type <br /> specimen book. It has survived not only five centuries, but also the leap into electronic <br /> typesetting, remaining essentially unchanged.
-            Lorem ipsum, dolor sit amet consectetur <br /> adipisicing elit. Quod aliquam quisquam, commodi pariatur quis debitis quidem, <br /> aspernatur quae ducimus recusandae fugiat autem reprehenderit, libero <br /> animi officia vero doloremque nostrum saepe. <br />
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. <br /> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, <br /> when bran unknown printer took a galley of type and scrambled it to make a type <br /> specimen book. It has survived not only five centuries, but also the leap into electronic <br /> typesetting, remaining essentially unchanged.
-            Lorem ipsum, dolor sit amet consectetur <br /> adipisicing elit. Quod aliquam quisquam, commodi pariatur quis debitis quidem, <br /> aspernatur quae ducimus recusandae fugiat autem reprehenderit, libero <br /> animi officia vero doloremque nostrum saepe.
+
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry.  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when bran unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+            Lorem ipsum, dolor sit amet consectetur  adipisicing elit. Quod aliquam quisquam, commodi pariatur quis debitis quidem, aspernatur quae ducimus recusandae fugiat autem reprehenderit, libero animi officia vero doloremque nostrum saepe.
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry.  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when bran unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+            Lorem ipsum, dolor sit amet consectetur  adipisicing elit. Quod aliquam quisquam, commodi pariatur quis debitis quidem, aspernatur quae ducimus recusandae fugiat autem reprehenderit, libero animi officia vero doloremque nostrum saepe.
           </p>
 
         </section>
 
-        <section id='projetos'>
+        <section className='text' id='projetos'>
 
           <br />
 
           <h3>Projetos</h3>
 
           <p className='prgrf'>
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. <br /> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, <br /> when bran unknown printer took a galley of type and scrambled it to make a type <br /> specimen book. It has survived not only five centuries, but also the leap into electronic <br /> typesetting, remaining essentially unchanged.
-            Lorem ipsum, dolor sit amet consectetur <br /> adipisicing elit. Quod aliquam quisquam, commodi pariatur quis debitis quidem, <br /> aspernatur quae ducimus recusandae fugiat autem reprehenderit, libero <br /> animi officia vero doloremque nostrum saepe. <br />
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. <br /> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, <br /> when bran unknown printer took a galley of type and scrambled it to make a type <br /> specimen book. It has survived not only five centuries, but also the leap into electronic <br /> typesetting, remaining essentially unchanged.
-            Lorem ipsum, dolor sit amet consectetur <br /> adipisicing elit. Quod aliquam quisquam, commodi pariatur quis debitis quidem, <br /> aspernatur quae ducimus recusandae fugiat autem reprehenderit, libero <br /> animi officia vero doloremque nostrum saepe.
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,  when bran unknown printer took a galley of type and scrambled it to make a type  specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod aliquam quisquam, commodi pariatur quis debitis quidem,  aspernatur quae ducimus recusandae fugiat autem reprehenderit, libero  animi officia vero doloremque nostrum saepe. 
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,  when bran unknown printer took a galley of type and scrambled it to make a type  specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod aliquam quisquam, commodi pariatur quis debitis quidem,  aspernatur quae ducimus recusandae fugiat autem reprehenderit, libero animi officia vero doloremque nostrum saepe.
           </p>
 
         </section>
