@@ -141,6 +141,7 @@
             padding-top: 8px;
             line-height: 180%;
             transition: all 1.2s ease-in-out;
+            max-width: 500px;
         }
         .prgrf:hover{
             transition: 1.0s;
@@ -154,7 +155,7 @@
 
     .pagina-inFlow {
         flex-direction: row;
-        gap: 50px;
+        gap: 90px;
 
         .dir {
             margin-left: 0;
@@ -163,10 +164,11 @@
 
             .text{
 
-                max-width: 300px;
+                max-width: 550px;
                 max-height: auto;
 
             }
+
         }
 
         .esq {
@@ -185,6 +187,28 @@
 
     }
 
+}
+
+@media(max-width: 853px){
+
+    .pagina-inFlow{
+
+        .esq{
+            position: fixed;
+        }
+
+        .dir{
+            margin-left: 50%;
+
+            .text{
+
+                .prgrf{
+                    margin-right: 5%;
+                }
+            }
+        }
+
+    }
 }
 
 @media(max-width: 768px) {
@@ -280,11 +304,32 @@
 
 }
 
+@media(max-width: 540px){
+
+    .pagina-inFlow{
+
+        display: flex;
+        flex-direction: column;
+
+        .esq{
+            position: relative;
+
+            section{
+                margin-left: -1;
+            }
+        }
+    }
+}
+
 @media(max-width: 412px){
 
     .pagina-inFlow{
 
+        display: flex;
+        flex-direction: column;
+
         .esq{
+            position: relative;
 
             img{
                 margin-left: 25%;
@@ -313,15 +358,46 @@
             }
 
             section{
-                margin-left: 5%;
+                margin-left: 13%;
             }
 
         }
 
         .dir{
 
-            margin-top: 0px;
+            margin-top: 0;
+
+            .text{
+
+                h3{
+                    text-align: center;
+                    margin-right: 30px;
+                }
+
+                .prgrf{
+
+                    text-align: center;
+                }
+
+            }
         }
 
     }
+
+}
+
+@media(max-width: 344px){
+
+    .pagina-inFlow{
+
+        .esq{
+
+            section{
+
+                margin-left: 7%;
+            }
+
+        }
+    }
+
 }
