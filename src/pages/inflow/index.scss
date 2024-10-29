@@ -223,11 +223,12 @@
 @media(max-width: 768px) {
 
     .pagina-inFlow {
-        gap: 20px;
+        gap: 15px;
         padding-left: 5px;
 
         .esq {
 
+            position: fixed;
             padding-top: 20px;
 
             img {
@@ -260,8 +261,8 @@
 
         .dir {
 
-            margin-left: 0;
-            margin-top: 20px;
+            margin-left: 55%;
+            
 
         }
 
@@ -341,7 +342,7 @@
             position: relative;
 
             img{
-                margin-left: 25%;
+                margin-left: 26%;
             }
     
             h2, h4{
@@ -367,7 +368,7 @@
             }
 
             section{
-                margin-left: 13%;
+                margin-left: 8%;
             }
 
         }
