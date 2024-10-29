@@ -84,10 +84,11 @@ Por fim, Davi Cirqueira Nascimento é um desenvolvedor web Full-Stack. Ele parti
           <h3>Projetos</h3>
 
           <p className='prgrf'>
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,  when bran unknown printer took a galley of type and scrambled it to make a type  specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod aliquam quisquam, commodi pariatur quis debitis quidem,  aspernatur quae ducimus recusandae fugiat autem reprehenderit, libero  animi officia vero doloremque nostrum saepe. 
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,  when bran unknown printer took a galley of type and scrambled it to make a type  specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod aliquam quisquam, commodi pariatur quis debitis quidem,  aspernatur quae ducimus recusandae fugiat autem reprehenderit, libero animi officia vero doloremque nostrum saepe.
+          Na In-flow, temos o orgulho de desenvolver uma variedade de projetos que refletem nossa experiência e comprometimento com a inovação. Um dos nossos destaques é a criação de um site responsivo para a empresa S.O.E, onde conseguimos desenvolver significativamente a experiência do usuário e a segurança.
+
+Outro ponto importante foi a realização do curso profissionalizante de informatica do Instituto Nossa Senhora de Fatima onde nele desenvolvemos diversos programas variados e adquirimos muita experiencia de como ingressar no mercado de trabalho.
+
+Além disso, implementamos um sistema de gerenciamento de dados utilizando Node.js e MySQL, que automatizou processos e possibilitou a geração de relatórios detalhados, facilitando a tomada de decisões.
           </p>
 
         </section>
