@@ -317,11 +317,25 @@
         display: flex;
         flex-direction: column;
 
+        
         .esq{
             position: relative;
-
+            
             section{
-                margin-left: -1;
+                gap: 15px;
+                margin-left: -43px;
+            }
+
+            ul{
+                padding-left: 0;
+            }
+        }
+
+        .dir{
+
+            .text{
+
+                margin-left: 5%;
             }
         }
     }
@@ -338,12 +352,12 @@
             position: relative;
 
             img{
-                margin-left: 26%;
+                margin-left: 25%;
             }
     
             h2, h4{
                 text-align: center;
-                margin-right: 4%;
+                margin-right: 8%;
             }
     
             ul{
@@ -352,7 +366,7 @@
                 flex-direction: column;
                 gap: 20px;
                 align-items: center;
-                margin-right: 21%;
+                margin-right: 12%;
                 list-style: none;
             
             }
@@ -364,7 +378,8 @@
             }
 
             section{
-                margin-left: 8%;
+                margin-left: 9.5%;
+                gap: 15px;
             }
 
         }
@@ -381,8 +396,7 @@
                 }
 
                 .prgrf{
-
-                    text-align: center;
+                    text-align: left;
                 }
 
             }
@@ -398,11 +412,28 @@
 
         .esq{
 
-            section{
-
-                margin-left: 7%;
+            img{
+                margin-left: 23%;
             }
 
+            section{
+
+                gap: 15px;
+                margin-left: 4%;
+            }
+
+        }
+
+        .dir{
+            margin-left: 2%;
+
+            .text{
+                
+                h3{
+                    padding-left: 4%;
+                }
+
+            }
         }
     }
 

@@ -72,7 +72,7 @@ Por fim, Davi Cirqueira Nascimento é um desenvolvedor web Full-Stack. Ele parti
 
           <p className='prgrf'>
 
-          Na In-flow, acumulamos uma vasta experiência no desenvolvimento de soluções tecnológicas inovadoras que atendem às necessidades de nossos clientes. Trabalhamos em projetos variados, desde a criação de sites responsivos até o desenvolvimento de aplicações web complexas. Nossa equipe tem experiência em tecnologias como React, Node.js e bancos de dados SQL e NoSQL, o que nos permite entregar soluções personalizadas e escaláveis. Além disso, temos um forte compromisso com a experiência do usuário, realizando testes constantes e coletando feedback para aprimorar nossos produtos. Essa abordagem nos permitiu estabelecer parcerias duradouras e conquistar a confiança de empresas de diferentes setores.
+          Na In-flow, acumulamos uma vasta experiência no desenvolvimento de soluções tecnológicas inovadoras que atendem às necessidades de nossos clientes. Trabalhamos em projetos variados, desde a criação de sites responsivos até o desenvolvimento de aplicações web complexas. Nossa equipe tem experiência em tecnologias como React, Node.js e bancos de dados SQL e MySQL, o que nos permite entregar soluções personalizadas e escaláveis. Além disso, temos um forte compromisso com a experiência do usuário, realizando testes constantes e coletando feedback para aprimorar nossos produtos. Essa abordagem nos permitiu estabelecer parcerias duradouras e conquistar a confiança de empresas de diferentes setores.
           </p>
 
         </section>
