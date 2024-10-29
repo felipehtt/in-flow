@@ -51,9 +51,14 @@ function InFlow() {
           <h3>Sobre</h3>
 
           <p className='prgrf'>
-           A In-flow é uma empresa de desenvolvimento web composta por 4 integrantes: Matheus Souza Moreira dos Santos é responsavel por conceituar e aplicar a parte visual ao site, visando a experiencia do usuario.
-              Acompanhado por Matheus, Felipe Soares de Oliveira atua como desenvolvedor Full-Stack auxiliando tanto na parte visual, quanto em relacao aos dados do cliente.
-              Guilherme  Pianoski   
+          A In-flow é uma empresa de desenvolvimento web composta por quatro integrantes: Matheus Souza Moreira dos Santos é responsável por conceituar e aplicar a parte visual do site, visando à experiência do usuário.
+
+Acompanhado por Matheus, Felipe Soares de Oliveira atua como desenvolvedor Full-Stack, auxiliando tanto na parte visual quanto em relação aos dados do cliente.
+
+Guilherme Raphael de Jesus Pianoski opera no banco de dados, garantindo a organização e a privacidade das informações. Ele também é responsável por implementar funções para o website.
+
+Por fim, Davi Cirqueira Nascimento é um desenvolvedor web Full-Stack. Ele participa da experiência do usuário e cuida da segurança dos dados, tornando assim o site um lugar agradável e seguro para todos. 
+
 
           </p>
 
@@ -67,10 +72,7 @@ function InFlow() {
 
           <p className='prgrf'>
 
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry.  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when bran unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-            Lorem ipsum, dolor sit amet consectetur  adipisicing elit. Quod aliquam quisquam, commodi pariatur quis debitis quidem, aspernatur quae ducimus recusandae fugiat autem reprehenderit, libero animi officia vero doloremque nostrum saepe.
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry.  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when bran unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-            Lorem ipsum, dolor sit amet consectetur  adipisicing elit. Quod aliquam quisquam, commodi pariatur quis debitis quidem, aspernatur quae ducimus recusandae fugiat autem reprehenderit, libero animi officia vero doloremque nostrum saepe.
+          Na In-flow, acumulamos uma vasta experiência no desenvolvimento de soluções tecnológicas inovadoras que atendem às necessidades de nossos clientes. Trabalhamos em projetos variados, desde a criação de sites responsivos até o desenvolvimento de aplicações web complexas. Nossa equipe tem experiência em tecnologias como React, Node.js e bancos de dados SQL e NoSQL, o que nos permite entregar soluções personalizadas e escaláveis. Além disso, temos um forte compromisso com a experiência do usuário, realizando testes constantes e coletando feedback para aprimorar nossos produtos. Essa abordagem nos permitiu estabelecer parcerias duradouras e conquistar a confiança de empresas de diferentes setores.
           </p>
 
         </section>
