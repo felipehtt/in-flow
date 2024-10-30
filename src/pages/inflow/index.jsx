@@ -57,7 +57,7 @@ Acompanhado por Matheus, Felipe Soares de Oliveira atua como desenvolvedor Full-
 
 Guilherme Raphael de Jesus Pianoski opera no banco de dados, garantindo a organização e a privacidade das informações. Ele também é responsável por implementar funções para o website.
 
-Por fim, Davi Cirqueira Nascimento é um desenvolvedor web Full-Stack. Ele participa da experiência do usuário e cuida da segurança dos dados, tornando assim o site um lugar agradável e seguro para todos. 
+Por fim, Davi Cirqueira Nascimento é um desenvolvedor web Full-Stack. Ele participa da experiência do usuário e cuida da segurança dos dados, tornando assim o site um lugar agradável e seguro. 
 
 
           </p>
@@ -88,7 +88,7 @@ Por fim, Davi Cirqueira Nascimento é um desenvolvedor web Full-Stack. Ele parti
 
 Outro ponto importante foi a realização do curso profissionalizante de informatica do Instituto Nossa Senhora de Fatima onde nele desenvolvemos diversos programas variados e adquirimos muita experiencia de como ingressar no mercado de trabalho.
 
-Além disso, implementamos um sistema de gerenciamento de dados utilizando Node.js e MySQL, que automatizou processos e possibilitou a geração de relatórios detalhados, facilitando a tomada de decisões.
+Além disso, implementamos um sistema de gerenciamento de dados utilizando Node.js e MySQL, que automatizou processos e possibilitou a geração de aplicações web com êxito.
           </p>
 
         </section>
